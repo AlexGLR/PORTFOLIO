@@ -1,7 +1,9 @@
 # PORTFOLIO:
 
-1. Solid Studio Project - https://rodergstep.github.io/PR_Solid
+Solid Studio Project - https://rodergstep.github.io/PR_Solid
 
-2. Industrial Theme - https://rodergstep.github.io/JS_Homework_19-20
+Industrial Theme - https://rodergstep.github.io/JS_Homework_19-20
 
-3. Pingbuller Project - https://rodergstep.github.io/homework_9
+Pingbuller Project - https://rodergstep.github.io/homework_9
+
+<a href="https://drive.google.com/open?id=0B6EBT5fmZFW2TnpTNHVuZWhtN0k">Magazine "47"</a>
