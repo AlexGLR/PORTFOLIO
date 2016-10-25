@@ -2,7 +2,7 @@
 
 <a href="https://rodergstep.github.io/PR_Solid">Solid Studio Project</a>
 
-<a href="#">Build Home. Industrial Theme</a>
+<a href="https://rodergstep.github.io/PORTFOLIO/.">Build Home. Industrial Theme</a>
 
 <a href="https://rodergstep.github.io/homework_9">Pingbuller Project</a>
 
