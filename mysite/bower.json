@@ -1,0 +1,20 @@
+{
+  "name": "common",
+  "description": "project",
+  "main": "index.js",
+  "authors": [
+    "Roman Bienov"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    
+  }
+}
